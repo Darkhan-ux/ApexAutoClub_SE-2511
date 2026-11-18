@@ -1,0 +1,18 @@
+Photo credits
+All photos are from Unsplash and free to use under the Unsplash License: https://unsplash.com/license
+
+car-1.jpg            Yuvraj Singh        https://unsplash.com/photos/tmAynVA_ihE
+car-2.jpg            Jake Weirick        https://unsplash.com/photos/8QU0aXg5wNk
+car-3.jpg            Roberto Nickson     https://unsplash.com/photos/Qk3mqkBuTdg
+cabriolet-meet.jpg   Nathan Marquardt    https://unsplash.com/photos/0VRyuKe4kNU  (cropped)
+mustang-road.jpg     Jeremy Bishop       https://unsplash.com/photos/TcVXFVJpTWE
+chevrolet-front.jpg  Horst Joachims      https://unsplash.com/photos/qvTXoxO9TDg  (cropped)
+
+toyota-camry.jpg     https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb
+lada-2106.jpg        https://images.unsplash.com/photo-1661155320788-9fcec97c8793
+vw-golf-gti.jpg      https://images.unsplash.com/photo-1565786089437-496904c48734
+land-cruiser.jpg     https://images.unsplash.com/photo-1650530579355-7ad9d4766043
+amg-gt.jpg           https://images.unsplash.com/photo-1617814065893-00757125efab
+porsche-911.jpg      https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e
+subaru-wrx.jpg       https://images.unsplash.com/photo-1573937940581-26c68794c4b0
+nissan-skyline.jpg   https://images.unsplash.com/photo-1770571613901-4e2c5e50f0ce
